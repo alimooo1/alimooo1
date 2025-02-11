@@ -2,7 +2,7 @@
 
 # Welcome to my Code Symphony! 🎵
 
-Hey there! I'm Ali Moallemi, a 20-year-old front-end engineer. I started my journey with Python, but the allure of front-end development with ReactJS and TypeScript stole my heart 🚀✨
+Hey there! I'm Ali Moallemi, a 21-year-old front-end engineer. I started my journey with Python, but the allure of front-end development with ReactJS and TypeScript stole my heart 🚀✨
 
 ## About Me 🎸
 
